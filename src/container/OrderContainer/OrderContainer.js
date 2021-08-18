@@ -17,7 +17,7 @@ class OrderContainer extends Component
     render()
 
     {
-        console.log("OrderContainer")
+        
         let TorderList=[]
         const Data=this.props.OrderArray
     
