@@ -1,0 +1,12 @@
+.container
+{
+    display:grid;
+}
+.containerblock
+{
+    margin: 10px auto;
+    border: 1px solid #ccc;
+    padding: 15px;
+    width:30%;
+    box-shadow: 0 2px 3px #ccc;
+}
