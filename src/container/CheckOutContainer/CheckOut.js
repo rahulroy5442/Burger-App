@@ -29,7 +29,7 @@ class CheckOut extends Component
     {
     
         let checkOut=<Redirect to='/Home'/>
-        console.log("Ragw")
+        
         if(this.props.ingrs)
              {
                  const redirect=this.props.purchase?<Redirect to='/Home'/>:null
